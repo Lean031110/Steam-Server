@@ -1,0 +1,33 @@
+📜 Política de Privacidad de LBA Bot
+
+1. Información Básica:
+LBA Bot es un asistente virtual diseñado para responder preguntas, enviar mensajes periódicos y ayudar a administrar grupos en Telegram.
+
+2. Datos que Recopilamos:
+- Mensajes de Usuarios: Almacenamos los mensajes que envías al bot para entrenarlo y mejorar sus respuestas.
+- Datos de Usuario: Recopilamos tu nombre de usuario y ID de Telegram para personalizar las respuestas.
+- Datos de Grupo: Si el bot está en un grupo, recopilamos el nombre y ID del grupo para proporcionar funcionalidades de administración.
+
+3. Cómo Usamos los Datos:
+- Respuestas Personalizadas: Usamos tus mensajes para entrenar al bot y mejorar sus respuestas.
+- Funcionalidades del Bot: Los datos se usan para enviar mensajes periódicos y administrar grupos.
+- Mejoras del Servicio: Analizamos el uso del bot para mejorar su rendimiento.
+
+4. Almacenamiento de Datos:
+- Duración: Los mensajes se almacenan durante 30 días.
+- Seguridad: Los datos se almacenan en servidores seguros con cifrado.
+- Acceso: Solo el desarrollador del bot tiene acceso a los datos.
+
+5. Compartir Datos:
+No compartimos tus datos con terceros, excepto cuando es necesario para cumplir con leyes o regulaciones.
+
+6. Derechos de los Usuarios:
+- Acceso y Corrección: Puedes solicitar acceso a tus datos o corregirlos.
+- Eliminación: Puedes solicitar que tus datos sean eliminados.
+- Revocación del Consentimiento: Puedes dejar de usar el bot en cualquier momento.
+
+7. Cambios en la Política de Privacidad:
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Los cambios se publicarán en esta página.
+
+8. Contacto:
+Si tienes preguntas o inquietudes, contáctanos en leandroantoniobuenoalmaguer@gmail.com .
